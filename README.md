@@ -371,4 +371,9 @@
 
 状态模式应用举例：
 
-1.
+1. 行为状态改变的场景。这点在各种控制器中非常常见，同时，逻辑结构为状态转移图的场景中都非常适用。
+
+## 参考
+
+1. <https://yq.aliyun.com/users/s2kca7gsykrca?spm=a2c4e.11155435.0.0.512d1a1cipZdq8>
+2. <https://www.runoob.com/design-pattern/design-pattern-tutorial.html>
